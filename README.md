@@ -1,195 +1,184 @@
-<!--
-  GitHub profile README for IACodeX
-  Publish this file as README.md inside a public repository named IACodeX/IACodeX.
-  Keep the assets directory beside README.md so the avatar and GIF render correctly.
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,45:172554,100:06b6d4&text=IACodeX&fontColor=e0f2fe&fontSize=58&fontAlignY=35&desc=BUILD%20%E2%80%A2%20CONNECT%20%E2%80%A2%20BREAK%20LIMITS&descAlignY=56&descSize=15&animation=fadeIn" alt="IACodeX banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:020617,38:172554,72:075985,100:06b6d4&text=PapiGEGamer&fontColor=e0f2fe&fontSize=52&fontAlignY=35&desc=WEB%20%E2%80%A2%20DISCORD%20%E2%80%A2%20TOOLS%20%E2%80%A2%20NETWORKING&descAlignY=56&descSize=14&animation=fadeIn" alt="PapiGEGamer" />
 
-<img src="./assets/avatar.png" width="145" alt="IACodeX anime avatar" />
+</div>
 
-<br />
+<img src="https://github.com/PapiGEGamer-web.png?size=240" width="24%" align="right" alt="Avatar de PapiGEGamer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&width=820&height=55&lines=P2P+%26+distributed+systems;QUIC+%E2%80%A2+Tor+%E2%80%A2+I2P+%E2%80%A2+UDP;Discord+%26+gaming+tooling;Backend+architecture+%26+protocol+design;Building+software+that+connects+without+permission" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=28&duration=3000&pause=650&color=22D3EE&vCenter=true&repeat=true&width=680&height=70&lines=Hola%2C+soy+Pablo+%E2%80%94+PapiGEGamer;Desarrollo+web%2C+Discord+y+herramientas;Gaming%2C+comunidades+y+experimentos" width="72%" alt="Presentación animada" />
+
+<pre>
+💻 React • TypeScript • Next.js • Vite
+💬 Discord • APIs • WebSockets • Comunidades
+🎮 Gaming • Modding • Redes • Experimentos
+🤝 FNLB • K1R4LABS • KernelOS
+</pre>
+
+<br clear="right" />
+
+<div align="center">
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=IACodeX&label=PROFILE+SIGNALS&color=0891b2&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/IACodeX?tab=followers"><img src="https://img.shields.io/github/followers/IACodeX?label=FOLLOWERS&style=for-the-badge&color=172554&labelColor=020617" alt="GitHub followers" /></a>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-22d3ee?style=for-the-badge&labelColor=020617" alt="Status: building" />
+  <a href="https://pablo-schefer.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0e7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://discord.com/users/1179009666110476328"><img src="https://img.shields.io/badge/DISCORD-172554?style=for-the-badge&logo=discord&logoColor=8B9DFF" alt="Discord" /></a>
+  <a href="https://www.youtube.com/@lastPapiGEGamer"><img src="https://img.shields.io/badge/YOUTUBE-172554?style=for-the-badge&logo=youtube&logoColor=FF445D" alt="YouTube" /></a>
+  <a href="https://x.com/PapiGEGamer"><img src="https://img.shields.io/badge/X-172554?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/papigegamer/"><img src="https://img.shields.io/badge/INSTAGRAM-172554?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram" /></a>
 </p>
 
-<img src="./assets/terminal-face.gif" width="310" alt="Animated terminal face" />
-
-<h3><code>&gt; systems should find each other, trust each other and keep working.</code></h3>
+<img src="https://komarev.com/ghpvc/?username=PapiGEGamer-web&label=VISITAS+AL+PERFIL&color=0891b2&style=flat-square" alt="Visitas al perfil" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Star%20Light%20Line.gif" width="100%" alt="Separador animado" />
 
-## `SYSTEM://ABOUT_ME`
+👋 Sobre mí
 
-I build **peer-to-peer infrastructure, networking tools and backend systems** with a focus on real protocols, resilient connections and useful abstractions.
+Soy Pablo, aunque casi todo el mundo me conoce como PapiGEGamer. Me gusta crear webs, herramientas e integraciones, entender cómo funcionan por dentro y mejorar proyectos junto a otras personas.
 
-My projects live where high-level software meets the network: **identity, discovery, NAT traversal, transport negotiation, encryption, virtual networks, synchronization and distributed services**. I also work on Discord integrations, gaming tooling, compression experiments and developer utilities.
+🌐 Desarrollo aplicaciones web con React, TypeScript, Vite y Next.js.
 
-```text
-central server?  optional
-network hostile? expected
-protocol simple? only on the surface
-idea impossible? let's prototype it
-```
+💬 Trabajo con Discord, APIs, WebSockets y herramientas para comunidades.
+
+🎮 Me interesan el gaming, el modding, las redes P2P y los experimentos técnicos.
+
+🤝 He participado en gran parte del ecosistema FNLB y en varios proyectos de Kira Kohler.
+
+🔧 Siempre tengo algún proyecto nuevo, una prueba de concepto o algo que optimizar.
+
+🌙 Fuera del código: Valorant, música, anime y personalizar Discord hasta el último detalle.
 
 <details>
-<summary><strong>⚡ OPEN TERMINAL — what I like building</strong></summary>
+<summary><strong>🌌 Más sobre lo que hago</strong></summary>
 
 <br />
 
-- Decentralized and peer-to-peer systems.
-- QUIC, UDP, STUN, NAT traversal and authenticated discovery.
-- Private transports over Tor and I2P.
-- Cryptographic identity, certificate pinning and secure session design.
-- Virtual LANs, tunnelling, file synchronization and realtime services.
-- Discord plugins, bots, APIs and community tooling.
-- Gaming utilities and experimental desktop/web applications.
-- Compression, compact encodings, QR payloads and performance benchmarks.
+Además del desarrollo web, suelo trabajar con herramientas de escritorio, servicios backend, automatizaciones, integraciones de Discord y pruebas relacionadas con redes y protocolos. Disfruto especialmente los proyectos que mezclan varias áreas y obligan a buscar soluciones poco habituales.
 
 </details>
 
-<details>
-<summary><strong>🧠 OPEN ARCHITECTURE — how I think</strong></summary>
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Pink%20Line.gif" width="100%" alt="Separador azul animado" />
 
-<br />
-
-I prefer systems with clear boundaries between **identity**, **discovery**, **authentication**, **transport**, **state** and **application services**. I prototype aggressively, measure the result and then refactor until the public API is smaller than the machinery behind it.
-
-</details>
-
----
-
-## `NETWORK://FEATURED_BUILDS`
-
-<div align="center">
-  <a href="https://github.com/IACodeX/P2PBase">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IACodeX&repo=P2PBase&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=38bdf8&text_color=bae6fd" alt="P2PBase repository" />
-  </a>
-  <a href="https://github.com/IACodeX/QuicLAN">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IACodeX&repo=QuicLAN&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=38bdf8&text_color=bae6fd" alt="QuicLAN repository" />
-  </a>
-</div>
+🚀 Proyectos propios
 
 <table>
   <tr>
-    <td width="25%"><strong><a href="https://github.com/IACodeX/P2PBase">P2PBase</a></strong></td>
-    <td>Modular .NET P2P infrastructure for discovery, authentication and services over QUIC, Tor or I2P.</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/IACodeX/QuicLAN">QuicLAN</a></strong></td>
-    <td>Virtual LAN for Windows with lobbies, Wintun, UDP discovery, encrypted fallback and real QUIC transport.</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/IACodeX/QuicPunch">QuicPunch</a></strong></td>
-    <td>Decentralized .NET peer connectivity using persistent identity, STUN, UDP hole punching and authenticated QUIC.</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/IACodeX/paraguas-archiviales">QuicSync</a></strong></td>
-    <td>Resilient P2P file synchronization with BLAKE3 chunks, atomic writes, compression and multi-peer folders.</td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/PapiGEGamer-web/pablo-schefer-portfolio"><img src="https://opengraph.githubassets.com/1/PapiGEGamer-web/pablo-schefer-portfolio" width="100%" alt="Vista previa del portfolio" /></a>
+      <h3 align="center"><a href="https://pablo-schefer.vercel.app">Portfolio personal</a></h3>
+      <p>Portfolio bilingüe e interactivo sobre mis proyectos, comunidades, juegos, música y experiencia en Discord.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-172554?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-172554?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite-172554?style=flat-square&logo=vite&logoColor=A78BFA" alt="Vite" />
+      </p>
+      <p align="center"><a href="https://github.com/PapiGEGamer-web/pablo-schefer-portfolio">Ver repositorio →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/PapiGEGamer-web/PapiGEGamersWeb"><img src="https://opengraph.githubassets.com/1/PapiGEGamer-web/PapiGEGamersWeb" width="100%" alt="Vista previa de PapiGEGamersWeb" /></a>
+      <h3 align="center"><a href="https://github.com/PapiGEGamer-web/PapiGEGamersWeb">PapiGEGamersWeb</a></h3>
+      <p>Proyecto web personal construido con Next.js, pensado como espacio para reunir contenido, proyectos y experimentos.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-172554?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/JavaScript-172554?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Vercel-172554?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+      <p align="center"><a href="https://github.com/PapiGEGamer-web/PapiGEGamersWeb">Ver repositorio →</a></p>
+    </td>
   </tr>
 </table>
 
----
+<details>
+<summary><strong>🧩 Ver detalles técnicos del portfolio</strong></summary>
 
-## `LINK://COLLABORATION_NETWORK`
+<br />
+
+Sitio bilingüe y multipágina con React Router.
+
+Animaciones mediante Motion, CSS, SVG y Canvas.
+
+Widget público de Discord actualizado desde una función de Vercel.
+
+Presencia de Spotify mediante Lanyard REST y WebSocket.
+
+Secciones dedicadas a comunidades, juegos, equipo y música.
+
+</details>
+
+🤝 Colaboraciones y comunidades
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/tnfAngel"><img src="https://github.com/tnfAngel.png?size=120" width="90" alt="tnfAngel avatar" /></a><br />
+    <td align="center" width="130">
+      <a href="https://github.com/tnfAngel"><img src="https://github.com/tnfAngel.png?size=120" width="82" alt="tnfAngel" /></a><br />
       <strong><a href="https://github.com/tnfAngel">FNLB</a></strong>
     </td>
     <td>
-      Active participation across much of the <strong>FNLB ecosystem</strong>: backend, APIs, Discord, gaming infrastructure, libraries and open-source tooling.
+      He participado en casi todos los proyectos de FNLB, colaborando en distintas partes del ecosistema, herramientas y comunidad.
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Kira-Kohler"><img src="https://github.com/Kira-Kohler.png?size=120" width="90" alt="Kira Kohler avatar" /></a><br />
-      <strong><a href="https://github.com/Kira-Kohler">Kira Kohler</a></strong>
+      <a href="https://github.com/Kira-Kohler"><img src="https://github.com/Kira-Kohler.png?size=120" width="82" alt="Kira Kohler" /></a><br />
+      <strong><a href="https://github.com/Kira-Kohler">K1R4LABS</a></strong>
     </td>
     <td>
-      Collaboration on selected projects involving <strong>Discord, gaming, modding, integrations and developer tooling</strong>.
+      También he colaborado en varios de sus proyectos relacionados con Discord, gaming, integraciones y herramientas.
     </td>
   </tr>
 </table>
 
-> Good software is rarely a solo speedrun. I care about shipping, maintaining and improving systems with other builders.
-
----
-
-## `STACK://TOOLS_AND_TECH`
+🛠️ Tecnologías
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,rust,ts,js,py,powershell,nodejs,bun,html,css,docker,postgres,supabase,cloudflare,git,githubactions,linux,windows,visualstudio,vscode&perline=11" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,html,css,git,github,vercel,vscode&perline=12" alt="Tecnologías principales" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/QUIC-020617?style=for-the-badge&logo=socketdotio&logoColor=22d3ee" alt="QUIC" />
-<img src="https://img.shields.io/badge/UDP-020617?style=for-the-badge&logo=webrtc&logoColor=22d3ee" alt="UDP" />
-<img src="https://img.shields.io/badge/STUN-020617?style=for-the-badge&logo=cloudflare&logoColor=22d3ee" alt="STUN" />
-<img src="https://img.shields.io/badge/Tor-020617?style=for-the-badge&logo=torproject&logoColor=22d3ee" alt="Tor" />
-<img src="https://img.shields.io/badge/I2P-020617?style=for-the-badge&logoColor=22d3ee" alt="I2P" />
-<img src="https://img.shields.io/badge/TLS_1.3-020617?style=for-the-badge&logo=letsencrypt&logoColor=22d3ee" alt="TLS 1.3" />
-<img src="https://img.shields.io/badge/AES--GCM-020617?style=for-the-badge&logo=protonvpn&logoColor=22d3ee" alt="AES-GCM" />
-<img src="https://img.shields.io/badge/Wintun-020617?style=for-the-badge&logo=wireguard&logoColor=22d3ee" alt="Wintun" />
+<img src="https://img.shields.io/badge/Discord_APIs-020617?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord APIs" />
+<img src="https://img.shields.io/badge/WebSockets-020617?style=for-the-badge&logo=socketdotio&logoColor=22D3EE" alt="WebSockets" />
+<img src="https://img.shields.io/badge/REST_APIs-020617?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="REST APIs" />
+<img src="https://img.shields.io/badge/SVG_%26_Canvas-020617?style=for-the-badge&logo=html5&logoColor=22D3EE" alt="SVG y Canvas" />
 
 </div>
 
----
-
-## `TELEMETRY://GITHUB`
+📊 Actividad en GitHub
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=IACodeX&show_icons=true&hide_border=true&rank_icon=github&bg_color=020617&title_color=22d3ee&icon_color=38bdf8&text_color=bae6fd" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=IACodeX&show_icons=true&hide_border=true&rank_icon=github&bg_color=f0f9ff&title_color=0369a1&icon_color=0891b2&text_color=0f172a" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=IACodeX&show_icons=true&hide_border=true&rank_icon=github&bg_color=020617&title_color=22d3ee&icon_color=38bdf8&text_color=bae6fd" alt="IACodeX GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=IACodeX&hide_border=true&background=020617&stroke=164e63&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee&sideLabels=bae6fd&currStreakNum=e0f2fe&sideNums=e0f2fe&dates=67e8f9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=IACodeX&hide_border=true&background=f0f9ff&stroke=bae6fd&ring=0891b2&fire=0284c7&currStreakLabel=0369a1&sideLabels=0f172a&currStreakNum=082f49&sideNums=082f49&dates=0e7490" />
-    <img height="180" src="https://streak-stats.demolab.com?user=IACodeX&hide_border=true&background=020617&stroke=164e63&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee&sideLabels=bae6fd&currStreakNum=e0f2fe&sideNums=e0f2fe&dates=67e8f9" alt="IACodeX contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PapiGEGamer-web&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PapiGEGamer-web&theme=github" />
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PapiGEGamer-web&theme=github_dark" alt="Actividad de PapiGEGamer" />
   </picture>
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=IACodeX&bg_color=020617&color=67e8f9&line=22d3ee&point=e0f2fe&area=true&area_color=0e7490&hide_border=true&custom_title=NETWORK%20ACTIVITY" alt="IACodeX activity graph" />
-</div>
-
-<details>
-<summary><strong>🌊 ENABLE 3D CONTRIBUTION WAVE</strong></summary>
-
-<br />
-
-<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/IACodeX?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&colors=22D3EE,38BDF8,0EA5E9,0284C7,0369A1,164E63,0F172A,020617&dark=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/IACodeX?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&colors=020617,0F172A,164E63,0369A1,0284C7,0EA5E9,38BDF8,22D3EE" />
-    <img width="95%" src="https://ssr-contributions-svg.vercel.app/_/IACodeX?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&format=svg&weeks=34&theme=native&dark=true" alt="Animated 3D contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PapiGEGamer-web&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PapiGEGamer-web&theme=github" />
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PapiGEGamer-web&theme=github_dark" alt="Lenguajes por repositorio" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PapiGEGamer-web&hide_border=true&background=0D1117&stroke=164E63&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=BAE6FD&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=67E8F9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PapiGEGamer-web&hide_border=true&background=FFFFFF&stroke=BAE6FD&ring=0891B2&fire=0284C7&currStreakLabel=0369A1&sideLabels=0F172A&currStreakNum=082F49&sideNums=082F49&dates=0E7490" />
+    <img height="175" src="https://streak-stats.demolab.com?user=PapiGEGamer-web&hide_border=true&background=0D1117&stroke=164E63&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=BAE6FD&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=67E8F9" alt="Racha de contribuciones" />
   </picture>
 </div>
 
-</details>
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PapiGEGamer-web&bg_color=0d1117&color=67e8f9&line=22d3ee&point=e0f2fe&area=true&area_color=075985&hide_border=true&custom_title=Actividad%20reciente" alt="Gráfica de actividad reciente" />
+</div>
 
----
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Star%20Light%20Line.gif" width="100%" alt="Separador animado" />
 
 <div align="center">
 
-<h3><code>CONNECTION ALIVE // KEEP BUILDING</code></h3>
+<h3>Gracias por pasarte por mi perfil 👾</h3>
 
-<sub>Experimental by nature. Deliberate by design.</sub>
+<sub>Nos vemos en el próximo commit.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:06b6d4,55:172554,100:020617" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:06b6d4,45:075985,100:020617" alt="Pie de página" />
 
 </div>
