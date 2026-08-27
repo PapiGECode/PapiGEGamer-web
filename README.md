@@ -16,7 +16,7 @@
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=PapiGECode&label=VISITAS+AL+PERFIL&color=0891b2&style=flat-square" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=PapiGECode&label=VISITAS+AL+PERFIL&base=3647694&color=0891b2&style=flat-square" alt="Visitas al perfil" />
 
 </div>
 
