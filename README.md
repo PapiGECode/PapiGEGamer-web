@@ -16,7 +16,7 @@
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=PapiGEGamer-web&label=VISITAS+AL+PERFIL&color=0891b2&style=flat-square" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=PapiGECode&label=VISITAS+AL+PERFIL&color=0891b2&style=flat-square" alt="Visitas al perfil" />
 
 </div>
 
@@ -58,8 +58,8 @@ Aplicaciones web, herramientas de escritorio, servicios backend, automatizacione
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/PapiGEGamer-web/pablo-schefer-portfolio">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=PapiGEGamer-web&repo=pablo-schefer-portfolio&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=bae6fd&icon_color=38bdf8" alt="Repositorio del portfolio" />
+      <a href="https://github.com/PapiGECode/pablo-schefer-portfolio">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=PapiGECode&repo=pablo-schefer-portfolio&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=bae6fd&icon_color=38bdf8" alt="Repositorio del portfolio" />
       </a>
       <h3>🌌 Portfolio personal</h3>
       <p align="left">Portfolio bilingüe e interactivo sobre mis proyectos, comunidades, juegos, música y experiencia en Discord.</p>
@@ -70,11 +70,11 @@ Aplicaciones web, herramientas de escritorio, servicios backend, automatizacione
       </p>
       <a href="https://pablo-schefer.vercel.app"><strong>Visitar web ↗</strong></a>
       &nbsp;·&nbsp;
-      <a href="https://github.com/PapiGEGamer-web/pablo-schefer-portfolio"><strong>Código →</strong></a>
+      <a href="https://github.com/PapiGECode/pablo-schefer-portfolio"><strong>Código →</strong></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/PapiGEGamer-web/PapiGEGamersWeb">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=PapiGEGamer-web&repo=PapiGEGamersWeb&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=bae6fd&icon_color=38bdf8" alt="Repositorio de PapiGEGamersWeb" />
+      <a href="https://github.com/PapiGECode/PapiGEGamersWeb">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=PapiGECode&repo=PapiGEGamersWeb&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=bae6fd&icon_color=38bdf8" alt="Repositorio de PapiGEGamersWeb" />
       </a>
       <h3>🎮 PapiGEGamersWeb</h3>
       <p align="left">Proyecto web personal construido con Next.js para reunir contenido, proyectos y experimentos.</p>
@@ -83,7 +83,7 @@ Aplicaciones web, herramientas de escritorio, servicios backend, automatizacione
         <img src="https://img.shields.io/badge/JavaScript-172554?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Vercel-172554?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
-      <a href="https://github.com/PapiGEGamer-web/PapiGEGamersWeb"><strong>Ver repositorio →</strong></a>
+      <a href="https://github.com/PapiGECode/PapiGEGamersWeb"><strong>Ver repositorio →</strong></a>
     </td>
   </tr>
 </table>
@@ -146,18 +146,18 @@ Secciones dedicadas a comunidades, juegos, equipo y música.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PapiGEGamer-web&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PapiGEGamer-web&theme=github" />
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PapiGEGamer-web&theme=github_dark" alt="Actividad de PapiGEGamer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PapiGECode&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PapiGECode&theme=github" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PapiGECode&theme=github_dark" alt="Actividad de PapiGEGamer" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PapiGEGamer-web&hide_border=true&background=0D1117&stroke=164E63&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=BAE6FD&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=67E8F9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PapiGEGamer-web&hide_border=true&background=FFFFFF&stroke=BAE6FD&ring=0891B2&fire=0284C7&currStreakLabel=0369A1&sideLabels=0F172A&currStreakNum=082F49&sideNums=082F49&dates=0E7490" />
-  <img width="55%" src="https://streak-stats.demolab.com?user=PapiGEGamer-web&hide_border=true&background=0D1117&stroke=164E63&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=BAE6FD&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=67E8F9" alt="Racha de contribuciones" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PapiGECode&hide_border=true&background=0D1117&stroke=164E63&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=BAE6FD&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=67E8F9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PapiGECode&hide_border=true&background=FFFFFF&stroke=BAE6FD&ring=0891B2&fire=0284C7&currStreakLabel=0369A1&sideLabels=0F172A&currStreakNum=082F49&sideNums=082F49&dates=0E7490" />
+  <img width="55%" src="https://streak-stats.demolab.com?user=PapiGECode&hide_border=true&background=0D1117&stroke=164E63&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=BAE6FD&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=67E8F9" alt="Racha de contribuciones" />
 </picture>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PapiGEGamer-web&bg_color=0d1117&color=67e8f9&line=22d3ee&point=e0f2fe&area=true&area_color=075985&hide_border=true&custom_title=Actividad%20reciente" alt="Gráfica de actividad reciente" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PapiGECode&bg_color=0d1117&color=67e8f9&line=22d3ee&point=e0f2fe&area=true&area_color=075985&hide_border=true&custom_title=Actividad%20reciente" alt="Gráfica de actividad reciente" />
 
 </div>
 
